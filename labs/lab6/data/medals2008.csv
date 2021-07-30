@@ -1,0 +1,88 @@
+country,code,gold,silver,bronze,total
+Vietnam ,VIE,0,1,0,1
+Venezuela ,VEN,0,0,1,1
+Turkey ,TUR,1,1,3,5
+Tunisia ,TUN,1,0,0,1
+Trinidad and Tobago ,TTO,1,1,0,2
+Togo ,TOG,0,0,1,1
+Tajikistan ,TJK,0,1,1,2
+Sudan ,SUD,0,1,0,1
+South Africa ,RSA,0,1,0,1
+Singapore ,SIN,0,1,0,1
+Serbia ,SRB,0,1,2,3
+Samoa ,SAM,0,1,0,1
+Portugal ,POR,1,1,0,2
+Panama ,PAN,1,0,0,1
+Nigeria ,NGR,0,3,2,5
+Morocco ,MAR,0,1,1,2
+Moldova ,MDA,0,0,1,1
+Mauritius ,MRI,0,0,1,1
+Malaysia ,MAS,0,1,0,1
+Kyrgyzstan ,KGZ,0,1,2,3
+Israel ,ISR,0,0,1,1
+Ireland ,IRL,0,1,2,3
+Indonesia ,INA,1,1,4,6
+Iceland ,ISL,0,1,0,1
+Greece ,GRE,0,2,1,3
+Finland ,FIN,1,1,2,4
+Estonia ,EST,1,1,0,2
+Ecuador ,ECU,0,1,0,1
+Bahamas ,BAH,0,1,1,2
+Afghanistan ,AFG,0,0,1,1
+Egypt ,EGY,0,0,2,2
+Chile ,CHI,0,1,0,1
+Algeria ,ALG,0,1,1,2
+Austria ,AUT,0,1,2,3
+Uzbekistan ,UZB,0,1,3,4
+Armenia ,ARM,0,1,4,5
+Colombia ,COL,0,2,1,3
+Croatia ,CRO,0,2,3,5
+Lithuania ,LTU,0,3,2,5
+Sweden ,SWE,0,4,1,5
+Cameroon ,CMR,1,0,0,1
+Iran ,IRI,1,0,1,2
+India ,IND,1,0,2,3
+Dominican Republic ,DOM,1,1,0,2
+Latvia ,LAT,1,1,1,3
+Chinese Taipei ,TPE,1,1,2,4
+Bulgaria ,BUL,1,1,3,5
+Azerbaijan ,AZE,1,1,4,6
+Slovenia ,SLO,1,2,2,5
+Zimbabwe ,ZIM,1,3,0,4
+Belgium ,BEL,2,0,0,2
+Mexico ,MEX,2,0,2,4
+Argentina ,ARG,2,0,4,6
+Switzerland ,SUI,2,1,4,7
+Mongolia ,MGL,2,2,0,4
+North Korea ,PRK,2,2,2,6
+Denmark ,DEN,2,2,3,7
+Kazakhstan ,KAZ,2,3,4,9
+Georgia ,GEO,3,2,2,7
+New Zealand ,NZL,3,2,4,9
+Slovakia ,SVK,3,3,0,6
+Czech Republic ,CZE,3,3,1,7
+Belarus ,BLR,3,4,7,14
+Brazil ,BRA,3,4,10,17
+Norway ,NOR,3,5,1,9
+Hungary ,HUN,3,5,2,10
+Canada ,CAN,3,9,8,20
+Cuba ,CUB,3,10,17,30
+Romania ,ROU,4,1,4,9
+Ethiopia ,ETH,4,2,1,7
+Poland ,POL,4,5,2,11
+Jamaica ,JAM,5,4,2,11
+Spain ,ESP,5,11,3,19
+Kenya ,KEN,6,4,6,16
+Ukraine ,UKR,7,4,11,22
+Netherlands ,NED,7,5,4,16
+France ,FRA,7,16,20,43
+Italy ,ITA,8,9,10,27
+Japan ,JPN,9,8,8,25
+South Korea ,KOR,13,11,8,32
+Australia ,AUS,14,15,17,46
+Germany ,GER,16,11,14,41
+Great Britain ,GBR,19,13,19,51
+Russia ,RUS,24,13,23,60
+United States ,USA,36,39,37,112
+China ,CHN,48,22,30,100
+Thailand ,THA,2,2,2,6

@@ -1,0 +1,87 @@
+country,code,gold,silver,bronze,total
+Vietnam ,VIE,0,0,1,1
+Venezuela ,VEN,1,0,0,1
+Uganda ,UGA,1,0,0,1
+Trinidad and Tobago ,TRI,1,1,2,4
+Tajikistan ,TJK,0,0,1,1
+Slovenia ,SLO,1,1,2,4
+Singapore ,SIN,0,0,2,2
+Serbia ,SRB,1,1,2,4
+Saudi Arabia ,KSA,0,0,1,1
+Qatar ,QAT,0,0,2,2
+Puerto Rico ,PUR,0,1,1,2
+Portugal ,POR,0,1,0,1
+Morocco ,MAR,0,0,1,1
+Montenegro ,MNE,0,1,0,1
+Malaysia ,MAS,0,1,1,2
+Latvia ,LAT,1,0,1,2
+Kuwait ,KUW,0,0,1,1
+Indonesia ,INA,0,2,1,3
+Hong Kong ,HKG,0,0,1,1
+Guatemala ,GUA,0,1,0,1
+Grenada ,GRN,1,0,0,1
+Gabon ,GAB,0,1,0,1
+Finland ,FIN,0,2,1,3
+Estonia ,EST,0,1,1,2
+Cyprus ,CYP,0,1,0,1
+Cameroon ,CMR,0,0,1,1
+Bahrain ,BRN,1,0,0,1
+Bahamas ,BAH,1,0,0,1
+Afghanistan ,AFG,0,0,1,1
+Greece ,GRE,0,0,2,2
+Uzbekistan ,UZB,0,0,3,3
+Botswana ,BOT,0,1,0,1
+Armenia ,ARM,0,1,1,2
+Belgium ,BEL,0,1,2,3
+Slovakia ,SVK,0,1,3,4
+Bulgaria ,BUL,0,2,1,3
+Thailand ,THA,0,2,2,4
+Mongolia ,MGL,0,2,3,5
+India ,IND,0,2,4,6
+Egypt ,EGY,0,3,1,4
+Algeria ,ALG,1,0,0,1
+Chinese Taipei ,TPE,1,0,1,2
+Dominican Republic ,DOM,1,1,0,2
+Turkey ,TUR,1,1,1,3
+Argentina ,ARG,1,1,2,4
+Ireland ,IRL,1,1,4,6
+Georgia ,GEO,1,2,3,6
+Mexico ,MEX,1,3,4,8
+Colombia ,COL,1,3,5,9
+Sweden ,SWE,1,4,3,8
+Tunisia ,TUN,2,0,1,3
+Lithuania ,LTU,2,0,3,5
+Norway ,NOR,2,1,1,4
+Switzerland ,SUI,2,2,0,4
+Azerbaijan ,AZE,2,2,5,9
+Romania ,ROU,2,4,1,7
+Denmark ,DEN,2,4,3,9
+Kenya ,KEN,2,4,7,13
+Belarus ,BLR,2,5,3,10
+Canada ,CAN,2,5,11,18
+Croatia ,CRO,3,1,2,6
+Kazakhstan ,KAZ,3,1,7,11
+Ethiopia ,ETH,3,2,3,8
+Poland ,POL,3,2,6,11
+Brazil ,BRA,3,5,9,17
+North Korea ,PRK,4,0,3,7
+South Africa ,RSA,4,1,1,6
+Czech Republic ,CZE,4,3,4,11
+Jamaica ,JAM,4,5,3,12
+Spain ,ESP,4,10,5,19
+Cuba ,CUB,5,3,7,15
+Ukraine ,UKR,5,4,10,19
+New Zealand ,NZL,6,2,5,13
+Netherlands ,NED,6,6,8,20
+Iran ,IRI,7,5,1,13
+Japan ,JPN,7,14,17,38
+Hungary ,HUN,8,4,6,18
+Italy ,ITA,8,9,11,28
+Australia ,AUS,8,15,12,35
+France ,FRA,11,11,13,35
+Germany ,GER,11,20,13,44
+South Korea ,KOR,13,9,8,30
+Russia ,RUS,20,20,28,68
+Great Britain ,GBR,29,17,19,65
+China ,CHN,38,31,22,91
+United States ,USA,46,28,30,104
